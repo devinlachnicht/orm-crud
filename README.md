@@ -28,3 +28,11 @@ THEN I am able to successfully create, update, and delete data in my database
 ## *links*
 Walkthrough video testing the API's *GET, POST, PUT, and DELETE* routes:
 <a href="https://drive.google.com/file/d/1uafjvh8otd3wQkfWoEVaeuhNi6Ys4KHX/view" target="_blank">Walkthrough Video</a>
+
+## *how to use app*
+Create a .env file and enter required fields of the following format
+```
+DB_NAME='ecommerce_db'
+DB_USER='root'
+DB_PW=''
+```
